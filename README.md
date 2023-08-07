@@ -3,8 +3,8 @@ I am the **frontend developer** who is into learning new technologies that can b
 #
 
 ### Skills/technologies:
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6"> <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7531f9">
-##
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6"> <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7531f9"> <img alt="Static Badge" src="https://img.shields.io/badge/Sass/SCSS-bf4080"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178c6"> <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-0769ad"> 
+###
 
 - 🌱 I’m currently learning about different JS libraries and frameworks.
 - 📫 How to reach me: riichikunda@gmail.com
