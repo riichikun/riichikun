@@ -1,9 +1,20 @@
 ### Hello there! :duck:
-I am the **frontend developer** who is into learning new technologies that can be used in web developing and *especially* the ones that can make the process easier. I also enjoy solving coding problems as a little hobby that can be used as a nice practice of skills.
+I am the **web developer** who is into learning new technologies that can be used in web developing and *especially* the ones that can make the process easier. I also enjoy solving coding problems as a little hobby that can be used as a nice practice of skills.
 #
 
 ### Skills/technologies:
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6"> <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7531f9"> <img alt="Static Badge" src="https://img.shields.io/badge/Sass/SCSS-bf4080"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178c6"> <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-0769ad"> 
+
+### Front
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6"> <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7531f9"> <img alt="Static Badge" src="https://img.shields.io/badge/Sass/SCSS-bf4080"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178c6"> <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/React-1572B6"> <img alt="Static Badge" src="https://img.shields.io/badge/Vue-green"> <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-hotpink">
+
+### Back
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB">  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-turqoise">
+
+### CMS
+ <img alt="Static Badge" src="https://img.shields.io/badge/Open Cart-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-hotpink">
+
+
+
 ###
 
 - 🌱 I’m currently learning about different JS libraries and frameworks.
