@@ -17,8 +17,7 @@ I am the **web developer** who is into learning new technologies that can be use
 
 ###
 
-- 🌱 I’m currently learning about different JS libraries and frameworks.
-- 📫 How to reach me: riichikunda@gmail.com
+📫 How to reach me: riichikunda@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/riichikun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/riichikun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/riichikun/)  
