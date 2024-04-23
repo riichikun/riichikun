@@ -5,7 +5,7 @@ I am the **web developer** who is into learning new technologies that can be use
 ### Skills/technologies:
 
 ### Back
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB">  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-turqoise"> <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-f23a2f"> <img alt="Static Badge" src="https://img.shields.io/badge/Composer-0769ad">
+<img alt="Static Badge" src="https://img.shields.io/badge/PHP-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-turqoise"> <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-f23a2f"> <img alt="Static Badge" src="https://img.shields.io/badge/Composer-0769ad">
 
 ### Databases
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-3e6e93"> <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-044a64"> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-d1ab25">
