@@ -1,20 +1,14 @@
 ### Hello there! :duck:
-I am the **web developer** who is into learning new technologies that can be used in web developing and *especially* the ones that can make the process easier. I also enjoy solving coding problems as a little hobby that can be used as a nice practice of skills.
+I am a **junior backend/fullstack developer** who is really into learning new technologies that can be used in web development and *especially* the ones that can make the process easier. I also enjoy solving coding problems as a little hobby that can be used as a nice practice of skills.
 #
 
 ### Skills/technologies:
 
-### Back
-<img alt="Static Badge" src="https://img.shields.io/badge/PHP-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-turqoise"> <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-f23a2f"> <img alt="Static Badge" src="https://img.shields.io/badge/Composer-0769ad">
+### Backend
+<img alt="Static Badge" src="https://img.shields.io/badge/PHP-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-turqoise"> <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-f23a2f"> <img alt="Static Badge" src="https://img.shields.io/badge/Laminas-0769ad">
 
-### Databases
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-3e6e93"> <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-044a64"> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-d1ab25">
-
-### CMS
- <img alt="Static Badge" src="https://img.shields.io/badge/Open Cart-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-hotpink">
-
-### Front
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6"> <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7531f9"> <img alt="Static Badge" src="https://img.shields.io/badge/Sass/SCSS-bf4080"> <img alt="Static Badge" src="https://img.shields.io/badge/LESS-1d365d"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178c6"> <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/React-1572B6"> <img alt="Static Badge" src="https://img.shields.io/badge/Redux-764abc"> <img alt="Static Badge" src="https://img.shields.io/badge/Vue-green"> <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-hotpink">
+### Frontend
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-red"> <img alt="Static Badge" src="https://img.shields.io/badge/Sass/SCSS-bf4080"> <img alt="Static Badge" src="https://img.shields.io/badge/LESS-1d365d"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178c6"> <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/React-1572B6"> <img alt="Static Badge" src="https://img.shields.io/badge/Redux-764abc"> <img alt="Static Badge" src="https://img.shields.io/badge/Vue-green"> <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-hotpink">
 
 
 ###
