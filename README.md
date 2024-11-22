@@ -1,4 +1,4 @@
-### Hello there! :duck:
+### Hello there! 🐢:
 I am a **backend/fullstack PHP-developer** who is really into learning new technologies that can be used in web development and *especially* the ones that can make the process easier. I also enjoy solving coding problems as a little hobby that can be used as a nice practice of skills.
 #
 
