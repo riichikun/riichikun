@@ -5,7 +5,7 @@ I am a **backend/fullstack PHP-developer** who is really into learning new techn
 ### Skills/technologies:
 
 ### Backend
-<img alt="Static Badge" src="https://img.shields.io/badge/PHP-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/Symfony-torquise"> <img alt="Static Badge" src="https://img.shields.io/badge/Laminas Mezzio-0769ad">
+<img alt="Static Badge" src="https://img.shields.io/badge/PHP-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/Symfony-7b0cf1"> <img alt="Static Badge" src="https://img.shields.io/badge/Laminas Mezzio-torquise"> <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-ea083b">
 
 ### Frontend
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178c6"> <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-0769ad"> <img alt="Static Badge" src="https://img.shields.io/badge/React-1572B6"> <img alt="Static Badge" src="https://img.shields.io/badge/Vue-green">
